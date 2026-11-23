@@ -1,0 +1,6 @@
+{
+  "deploy": {
+    "cronSchedule": "0 15 * * *",
+    "restartPolicyType": "ON_FAILURE"
+  }
+}
